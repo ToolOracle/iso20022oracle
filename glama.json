@@ -1,0 +1,1 @@
+{"name":"ISO20022Oracle","description":"ISO 20022 stablecoin compliance MCP — DTI lookup, pacs.008 generation, SWIFT deadlines, MiCA cross-check, Travel Rule","category":"finance","tags":["iso20022","swift","stablecoin","compliance","mica","dti"],"tools":12,"transport":"streamable-http","endpoint":"https://mcp.feedoracle.io/iso20022/mcp/"}
