@@ -1,0 +1,5 @@
+name: ISO20022Oracle
+description: ISO 20022 payment messaging — 10 tools
+endpoint: https://tooloracle.io/iso20022/mcp/
+transport: streamable-http
+license: MIT
